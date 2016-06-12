@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfZamowienie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Zamowienie>
+    <Status>Wprowadzono</Status>
+    <Ilosc>1</Ilosc>
+    <Odbiorca>qq</Odbiorca>
+    <Typ>Atz</Typ>
+    <Rodzaj>a100</Rodzaj>
+    <DataZamowienia>2016-06-02</DataZamowienia>
+  </Zamowienie>
+  <Zamowienie>
+    <Status>realizacja</Status>
+    <Ilosc>2</Ilosc>
+    <Odbiorca>qqqqww</Odbiorca>
+    <Typ>Atz</Typ>
+    <Rodzaj>a100</Rodzaj>
+    <DataZamowienia>2016-06-02</DataZamowienia>
+  </Zamowienie>
+  <Zamowienie>
+    <Status>pakowanie</Status>
+    <Ilosc>3</Ilosc>
+    <Odbiorca>qqqqwwwe</Odbiorca>
+    <Typ>Atz</Typ>
+    <Rodzaj>a100</Rodzaj>
+    <DataZamowienia>2016-06-02</DataZamowienia>
+  </Zamowienie>
+  <Zamowienie>
+    <Status>pakowanie</Status>
+    <Ilosc>4</Ilosc>
+    <Odbiorca>qqqqwwwe</Odbiorca>
+    <Typ>Atz</Typ>
+    <Rodzaj>a100</Rodzaj>
+    <DataZamowienia>2016-06-02</DataZamowienia>
+  </Zamowienie>
+  <Zamowienie>
+    <Status>Wprowadzono</Status>
+    <Ilosc>5</Ilosc>
+    <Odbiorca>qqqqwwwe</Odbiorca>
+    <Typ>Atz</Typ>
+    <Rodzaj>a100</Rodzaj>
+    <DataZamowienia>2016-06-02</DataZamowienia>
+  </Zamowienie>
+</ArrayOfZamowienie>
